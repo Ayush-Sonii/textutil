@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Fuzzy+Bubbles:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap'); */
+.desc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.229);
+    padding: 30px;
+    color: #121c84
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    font-size: 30px;
+    text-align: center;
+}
+.text h1,h3{
+    font-family: 'Roboto Slab', serif;
+}
+#here{
+    margin-top: 20px;
+    font-family: 'Fuzzy Bubbles';
+    font-weight: bold;
+    /* font-family: 'Fasthand'; */
+} 

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    padding: 25px 10px;
+    background-color: #1D4851;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    box-shadow: 5px 10px 10px 10px #9AB5BC;
+}
+.container h1{
+    cursor: pointer;
+    
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+li{
+    list-style: none;
+    padding: 5px 10px;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.links{
+    text-decoration: none;
+    color: white;
+}

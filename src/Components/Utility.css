@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+.util{
+    padding: 70px 20px 20px 20px;
+    background-color: #6454f0e2;
+    color: white;
+}
+.util h1{
+    font-size: 40px;
+    font-family: 'Permanent Marker';
+    color: snow;
+}
+.mb{
+    padding: 30px;
+    text-align: center;
+}
+.form-control{
+    margin-top: 10px;
+    width: 70%;
+    font-size: 20px;
+    padding: 8px;
+    border: solid 3px #242961;
+}
+.btn{
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    background-color: #ffeb70 ;
+    color: #9895ef;
+    margin: 0 7px auto 7px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 15%;
+    transition: 0.5s;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color:  white;
+    color: #121c84;
+    border-radius: 20px;
+}
+.summary{
+    margin-top: 20px;
+    font-size: 25px;
+}
